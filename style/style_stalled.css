@@ -93,9 +93,9 @@ body.panel-hidden #map {
 }
 
 .map-control button {
-  padding: 8px 12px;
+  padding: 0.8vh 1.2vw;
   border: none;
-  border-radius: 4px;
+  border-radius: 0.4vh;
   background: #03b9bd;
   color: white;
   cursor: pointer;
@@ -103,9 +103,9 @@ body.panel-hidden #map {
 }
 
 .site-control button {
-  padding: 8px 12px;
+  padding: 0.8vh 1.2vw;
   border: none;
-  border-radius: 4px;
+  border-radius: 0.4vh;
   background: #03b9bd;
   color: white;
   cursor: pointer;
