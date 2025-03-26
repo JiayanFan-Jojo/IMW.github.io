@@ -24,7 +24,7 @@
     "link": "#none"
   },
   {
-    "image": "images/index/production_icon/stalled.jpg",
+    "image": "images/index/production_icon/stalled.jpeg",
     "alt": "Stalled Sites Tracker",
     "title": "Stalled Sites Tracker",
     "description": "A interactive map for all the stalled sites in LBTH until Jan 2025.",
@@ -40,7 +40,7 @@
     "link": "committee_map.html"
   },
   {
-    "image": "images/index/production_icon/brown.jpg",
+    "image": "images/index/production_icon/brown.jpeg",
     "alt": "Brownfield Land Register",
     "title": "Brownfield Land Register",
     "description": "An interactive map for all the Brownfield Land Register in LBTH.",
