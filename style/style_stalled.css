@@ -80,7 +80,7 @@ body.panel-hidden #map {
 
 .site-control {
   position: absolute;
-  bottom: 100px;
+  bottom: 50px;
   left: 20px;
   z-index: 1000;
   background: rgba(255, 255, 255, 0.95);
